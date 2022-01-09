@@ -1,0 +1,8 @@
+IG_UI_PTBR = {
+    IGUI_ItemCat_AmmoBox = "Caixa de Munição",
+    IGUI_ItemCat_FixedMag = "Cartucho Consertado",
+    IGUI_ItemCat_GunClean = "Limpeza da Arma",
+    IGUI_ItemCat_GunMag = "Cartucho de Arma",
+    IGUI_ItemCat_WeaponConversion = "Parte da arma",
+    IGUI_Sandbox_worldOptions = "Opções GunFighter",
+}

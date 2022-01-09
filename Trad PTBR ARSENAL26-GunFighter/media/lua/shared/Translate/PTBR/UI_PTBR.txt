@@ -1,0 +1,17 @@
+UI_PTBR = {
+    UI_optionscreen_binding_GunFighter Mod	= "ARSENAL[26]GUNFIGHTER",
+    UI_optionscreen_binding_AMMO_TYPE_1		= "Munição-tipo 1",
+    UI_optionscreen_binding_AMMO_TYPE_2		= "Munição-tipo 2",
+    UI_optionscreen_binding_MAG_TYPE_1		= "Cartucho-tipo / empunhadura C.A.C. 1",
+    UI_optionscreen_binding_MAG_TYPE_2		= "Cartucho-tipo / empunhadura C.A.C. 2",
+    UI_optionscreen_binding_FOLD_STOCK		= "Dobrar : coronha / baio",
+    UI_optionscreen_binding_MELEE_MODE		= "Corpo-a-corpo / modo lança",
+    UI_optionscreen_binding_SELECT_FIRE		= "Selecionar modo de disparo",
+    UI_optionscreen_binding_ALT_LOAD		= "Recarga alternativa",
+    UI_optionscreen_binding_TRAJECTORY_UP	= "Aumentar trajetória / combate curta distância-desligado",
+    UI_optionscreen_binding_TRAJECTORY_DOWN	= "Diminuir trajetória / combate curta distância-ligado",
+    UI_optionscreen_binding_WEAPON_LIGHT	= "Luz de arma",
+    UI_optionscreen_binding_REFRESH_SCRIPT	= "Atualizar script da arma",
+}
+
+
